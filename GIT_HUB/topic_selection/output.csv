@@ -1,0 +1,79 @@
+Category,Author,Seminar,Link,,,,,
+Finance,Josef Teichmann,Machine learning in finance,http://www.math.kth.se/matstat/seminarier/190118.html,,,,,
+,Oscar Jagermark,Predicting Short-Term Extreme Movements in FX-markets Using Neural Networks,http://www.math.kth.se/matstat/seminarier/181004.html,,,,,
+,Luc-Lao Avril,ESG Integration in AP1 Systematic Equity Strategies,http://www.math.kth.se/matstat/seminarier/180914a.html,,,,,
+,Elisabeth Hakim and Aidin Ahsant,Quantitative portfolio construction using stochastic programming,http://www.math.kth.se/matstat/seminarier/180615a.html,,,,,
+,Gustaf Tegnér,Recurrent neural networks for financial asset forecasting,http://www.math.kth.se/matstat/seminarier/180608m.html,,,,,
+,Younes Djehiche,A Neural Networks Approach to Portfolio Choice,http://www.math.kth.se/matstat/seminarier/180608k.html,,,,,
+,Markus Berg,"Modeling the Term Structure of Interest Rates
+            with Restricted Boltzmann Machines",http://www.math.kth.se/matstat/seminarier/180608j.html,,,,,
+,Gustav Kihlström,A self-normalizing neural network approach to bond liquidity classification,http://www.math.kth.se/matstat/seminarier/180525aa.html,,,,,
+,Jimmy Jansson and Bjï¿½rn Widing,Valuation practices of IFSR17,http://www.math.kth.se/matstat/seminarier/180125.htm,,,,,
+,Joel Berhane,Zero-inflated hidden Markov models and optimal trading strategies in high-frequency foreign exchange trading,http://www.math.kth.se/matstat/seminarier/180118.htm,,,,,
+,Patrick Truong,An exploration of topological properties of high-frequency one-dimensional financial time series data using TDA,http://www.math.kth.se/matstat/seminarier/171220b.htm,,,,,
+,Holger Drees,"Analysis of the Extremal Dependence Structure of Time Series
+with Applications to Financial Modeling",http://www.math.kth.se/matstat/seminarier/171002.htm,,,,,
+,William Brink och Christopher Furu,Investigating usefulness of portfolio optimization with respect to prospect utility in financial advisory,http://www.math.kth.se/matstat/seminarier/170906.htm,,,,,
+,Anna Lundemo,Detecting change points in remote sensing time series,http://www.math.kth.se/matstat/seminarier/170901c.htm,,,,,
+,Najib Jamjam,SABR model extensions for negative rates,http://www.math.kth.se/matstat/seminarier/170616d.htm,,,,,
+,Erik Pärlstrand,Comparing fast- and slow-acting features for short-term price predictions,http://www.math.kth.se/matstat/seminarier/170609d.htm,,,,,
+,Philip Widegren,Deep learning-based forecasting of financial assets,http://www.math.kth.se/matstat/seminarier/170609b.htm,,,,,
+,Andreas Kï¿½rdel,Modeling deposit rates of non-maturity deposits,http://www.math.kth.se/matstat/seminarier/170529a.htm,,,,,
+,Merouane Brahimi,The impact of macro-economic indicators on credit spreads,http://www.math.kth.se/matstat/seminarier/170526b.htm,,,,,
+,Emil Tingstrï¿½m,Optimal investment with corporate tax payments,http://www.math.kth.se/matstat/seminarier/170505.htm,,,,,
+,Ludvig H�llman,The Rolling Window Method: Precisions of Financial Forecasting,http://www.math.kth.se/matstat/seminarier/170407b.html,,,,,
+Derivatives,Mehdi Belkotain,X-value adjustments for interest rate derivatives,http://www.math.kth.se/matstat/seminarier/180615.html,,,,,
+,Sofie Eklund and Randa Estaifo,Modeling implied correlation matrices using option prices,http://www.math.kth.se/matstat/seminarier/180608n.html,,,,,
+,Richard Kristiansson and Axel Broström,Exotic derivatives and deep learning,http://www.math.kth.se/matstat/seminarier/180525c.htm,,,,,
+,Carl \C5kerlind and Filip Kwetczer,Hedging foreign exchange exposure in private equity using financial derivatives,http://www.math.kth.se/matstat/seminarier/180525bb.html,,,,,
+,Simon Carmelid,"Calibrating the Hull-White model using
+Adjoint Algorithmic Differentiation",http://www.math.kth.se/matstat/seminarier/170908.htm,,,,,
+Risk,Harald Agering,True risk of illiquid investments,http://www.math.kth.se/matstat/seminarier/180830.html,,,,,
+,Lovisa Emfevid and Hampus Nyquist,Financial risk profiling using logistic regression,http://www.math.kth.se/matstat/seminarier/180608o.html,,,,,
+,Greta Graziani,Hedging error in CVA: impact of inconsistency between simulation and pricing models,http://www.math.kth.se/matstat/seminarier/180608l.html,,,,,
+,Gustav Kratz,Risk modelling in payment guarantees,http://www.math.kth.se/matstat/seminarier/180608d.html,,,,,
+,Henrik Ribom,Consolidating multi-factor models of systematic risk with regulatory capital,http://www.math.kth.se/matstat/seminarier/180601d.html,,,,,
+,Harald Kihlström,On model risk and interconnectedness in banks,http://www.math.kth.se/matstat/seminarier/180525a.html,,,,,
+,Peter Tankov,Pricing and hedging in log-normal stochastic volatility models,http://www.math.kth.se/matstat/seminarier/171016.htm,,,,,
+,Filip Ahlin,Internal model for spread risk under Solvency II,http://www.math.kth.se/matstat/seminarier/171013a.htm,,,,,
+,Isak Starlander,Counterparty credit risk on the blockchain,http://www.math.kth.se/matstat/seminarier/171013d.htm,,,,,
+,Martina Bartold,"Modelling of private infrastructure debt in a risk
+factor model",http://www.math.kth.se/matstat/seminarier/170609e.htm,,,,,
+,André Berglund and Carl Svensson,On the risk relation between economic value of equity and net interest income,http://www.math.kth.se/matstat/seminarier/170605b.htm,,,,,
+,Ludvig Pucek and Viktor Sonebï¿½ck,Hierarchical clustering of market risk models,http://www.math.kth.se/matstat/seminarier/170605a.htm,,,,,
+,Katja Dalne,The performance of market risk models for Value-at-Risk and Expected Shortfall: Backtesting in the light of FRTB,http://www.math.kth.se/matstat/seminarier/170424.htm,,,,,
+,Tarek Barbouche,Extreme value theory applied to securitizations rating methodology,http://www.math.kth.se/matstat/seminarier/170407a.html,,,,,
+,Carl Ljung,Copula Selection and Parameter Estimation in Market Risk Models,http://www.math.kth.se/matstat/seminarier/170327.htm,,,,,
+Bank,Felix Molin,Cluster analysis of European banking data,http://www.math.kth.se/matstat/seminarier/171213.htm,,,,,
+Insurance,Mai Nguyen,Machine learning algorithms for regression modeling in private insurance,http://www.math.kth.se/matstat/seminarier/180830a.html,,,,,
+,Marcus Ahlgren,Claims reserving using gradient boosting and generalized linear models,http://www.math.kth.se/matstat/seminarier/180608e.html,,,,,
+,Robin Borgman and Axel Helltröm,Micro-level loss reserving in economic disability insurance,http://www.math.kth.se/matstat/seminarier/180601c.html,,,,,
+,Mattias Nilsson och Erik Sandberg,Application and evaluation of artificial neural networks in solvency capital requirement estimations for insurance products,http://www.math.kth.se/matstat/seminarier/180326.html,,,,,
+,Johan Gip Orreborn,Asset-liability management within life insurance,http://www.math.kth.se/matstat/seminarier/171013b.htm,,,,,
+,Oscar Hagsjö och Oscar Hermansson,Large claims in non-life insurance,http://www.math.kth.se/matstat/seminarier/171013c.htm,,,,,
+,Pontus Waltré,Premium influencing factors in life assurance,http://www.math.kth.se/matstat/seminarier/170627.htm,,,,,
+,Lovisa Styrud,Risk premium prediction of car damage insurance using artificial neural networks and generalized linear models,http://www.math.kth.se/matstat/seminarier/170609a.htm,,,,,
+ML,Mikael Grossman,Proposal networks in object detection,http://www.math.kth.se/matstat/seminarier/190121.html,,,,,
+,Jonas Peters,Causality and data,http://www.math.kth.se/matstat/seminarier/181015.html,,,,,
+,Hanna Gruselius,"Generative Models and Feature
+            Extraction on Patient Images and
+            Structure Data in Radiation
+            Therapy",http://www.math.kth.se/matstat/seminarier/180608i.html,,,,,
+,Adam Lindhe,"Reflected Stochastic Differential
+Equations on a Time-Dependent
+Non-Smooth Domain",http://www.math.kth.se/matstat/seminarier/180608h.html,,,,,
+,Max \D6wall,"Regression Modeling from the Statistical Learning Perspective,
+with an Application to Advertisement Data",http://www.math.kth.se/matstat/seminarier/180608a.html,,,,,
+,Gustav Rehnman and Nils Tesch,"Application of mean absolute deviation optimization in
+portfolio management",http://www.math.kth.se/matstat/seminarier/180601g.html,,,,,
+,Henrik Sjökvist,Text feature mining using pre-trained word embeddings,http://www.math.kth.se/matstat/seminarier/180601a.html,,,,,
+,Joffrey Dumont-Le Brazidec,An object-oriented data analysis approach for text population,http://www.math.kth.se/matstat/seminarier/180212.htm,,,,,
+,Annika Lang,"Random field simulation: bridging stochastic processes and their
+applications",http://www.math.kth.se/matstat/seminarier/171127.htm,,,,,
+,Kristoffer Brodin,"Statistical Machine Learning from Classification
+Perspective:
+Prediction of Household Ties for Economical Decision Making",http://www.math.kth.se/matstat/seminarier/171020.htm,,,,,
+,Dennis Sundstrï¿½m,Automatized GARCH parameter estimation,http://www.math.kth.se/matstat/seminarier/170908b.htm,,,,,
+,Daniel Berlin,"Multi-class supervised classification techniques for
+high-dimensional data: applications to vehicle
+maintenance at Scania",http://www.math.kth.se/matstat/seminarier/170616a.htm,,,,,
