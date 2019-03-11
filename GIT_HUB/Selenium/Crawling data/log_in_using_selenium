@@ -1,0 +1,11 @@
+from selenium import webdriver
+
+driver=webdriver.Chrome('D:/chromedriver')
+driver.get('https://www.linkedin.com/')
+
+username=driver.find_element_by_class_name('login-email')
+username.send_keys('quynhtram6002@gmail.com')
+password=driver.find_element_by_id('login-password')
+password.send_keys('0633626010yeah')
+sign_in_button=driver.find_element_by_xpath('//*[@type="submit"]')
+sign_in_button.click()
